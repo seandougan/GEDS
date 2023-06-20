@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StlU3fiqYivFpJ+tAwGOJGAeeQoUEpMtwuMfJ4lfdlZ5XBB3Uo5fa1edRocOTpfFHjhpv9AjLC5dNW9tSX37/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\svoog\\RiderProjects\\GEDS\\dougansoftwaredevelopemnt.geds\\dougansoftwaredevelopemnt.geds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svoog\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
